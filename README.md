@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
--
+The leader of JX3BOX.
+A female programmer.
